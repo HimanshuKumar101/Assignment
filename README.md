@@ -36,5 +36,3 @@ Open your browser and navigate to `http://localhost:3000` to see the application
 ## Contributing
 
 Feel free to submit issues and pull requests for new features, bug fixes, and improvements.
-
-e.
